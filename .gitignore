@@ -1,0 +1,19 @@
+# File koneksi/database sensitif
+koneksi.php
+aplikasiakuntansi.sql
+
+# File dokumen pribadi
+*.docx
+*.txt
+
+# Folder sistem/editor
+.vscode/
+.idea/
+
+# Folder vendor atau dependency
+/vendor/
+
+# File log dan cache
+*.log
+*.cache
+
